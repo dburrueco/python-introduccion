@@ -28,6 +28,3 @@ Aspectos importantes que analizamos:
 ➡️ Qué ocurre al convertir estructuras como listas, tuplas, conjuntos o diccionarios.
 
 Y revisaremos también una idea importante: Cuando aplicamos funciones como "list()" o "tuple()", no modificamos el objeto original, sino que creamos un nuevo objeto a partir de él. Comprender este matiz es esencial para evitar errores conceptuales más adelante.
-
-Canal de YouYube:
-https://www.youtube.com/@DanielBurrueco
